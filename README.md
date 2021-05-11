@@ -33,3 +33,10 @@ En POO, Una interfaz que declara los métodos necesarios para acceder secuencial
 ## Programación funcional
 Funciones con tareas específicas que reciban argumentos y no muten la información.
 Crear un conjunto de funciones que tengan un objetivo específico.
+
+# Diagrama de canicas
+* rxjs-dev.firebaseapp.com
+* reactivex.io
+Nomenclatura: nombre$
+Linea de tiempo: posee las esferas que son los valores emitidos por el observable, la linea vertical significa completado
+Operacion(): operador transformación o procedimiento, recibe las flechas y genera otra linea de tiempo
