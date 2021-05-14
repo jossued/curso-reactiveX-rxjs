@@ -1,5 +1,5 @@
 # curso-reactiveX-rxjs
-ReactiveX - RxJs De cero hasta los detalles
+ReactiveX - RxJs De cero hasta los detalles - [link fork](https://github.com/jossued/curso-rxjs-inicio)
 
 # Observables
 * Fuente de información
