@@ -1,2 +1,3 @@
 [submodule "curso-rxjs-inicio"]
 	url = https://github.com/jossued/curso-rxjs-inicio
+	path = curso-rxjs-inicio
